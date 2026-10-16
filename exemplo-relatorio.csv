@@ -1,0 +1,6 @@
+﻿"Arquivo";"Largura_px";"Altura_px";"Transparencia";"Identico_a";"Situacao";"Observacoes"
+"exemplo-sprites.png";"96";"48";"Sim";"";"OK";""
+"exemplo-copia.png";"96";"48";"Sim";"exemplo-sprites.png";"Revisar";"Idêntico a exemplo-sprites.png."
+"exemplo-fundo.png";"96";"96";"Não";"";"OK";""
+"exemplo-irregular.png";"50";"48";"Sim";"";"Revisar";"Dimensões não são múltiplas de 48 px."
+"exemplo-corrompido.png";"";"";"";"";"Erro";"Arquivo não reconhecido como PNG."
